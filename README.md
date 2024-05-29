@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Ridwan-Al-Mahmud/Ridwan-Al-Mahmud/issues)**
+💬 Ask me about **Backend, Django, MySql... or anything [here](https://github.com/Ridwan-Al-Mahmud/Ridwan-Al-Mahmud/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,tailwind,go,java" />
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,c,nextjs,python,django" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,c,python,django" /><br>
 </div>
 
 <br/>
