@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Docker, Firebase, Rust**
+ 🌱 I’m currently learning **Rust, Docker, Firebase**
 
 💬 Ask me about **Backend, Django, MySql... or anything [here](https://github.com/Ridwan-Al-Mahmud/Ridwan-Al-Mahmud/issues)**
 
