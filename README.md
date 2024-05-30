@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Docker, Firebase, Rust**
 
 💬 Ask me about **Backend, Django, MySql... or anything [here](https://github.com/Ridwan-Al-Mahmud/Ridwan-Al-Mahmud/issues)**
 
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,tailwind,go,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,tailwind,java,mysql" />
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,c,python,django" /><br>
 </div>
 
@@ -49,7 +49,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
 
 
