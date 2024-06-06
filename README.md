@@ -63,4 +63,4 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ridwan-Al-Mahmud &hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>-->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ridwan-Al-Mahmud&theme=react&border-radius=10&width=390&count_private=true)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ridwan-Al-Mahmud)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ridwan-Al-Mahmud&theme=react&border-radius=10&size_weight=0.5&count_weight=0.5&align=center&width=325&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
