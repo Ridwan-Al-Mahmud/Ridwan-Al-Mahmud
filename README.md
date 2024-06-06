@@ -48,7 +48,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
- <div align="center">
+ <div align="center" style="display:flex">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=Ridwan-Al-Mahmud&theme=react&border-radius=10&width=300&count_private=true" alt="GitHub Streak">
   </a>
