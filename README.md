@@ -54,7 +54,7 @@
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width=370 src="https://github-readme-stats.vercel.app/api?username=Ridwan-Al-Mahmud&theme=react&border-radius=10&size_weight=0.5&count_weight=0.5&align=center&show_icons=true$rank_icon=github" alt="Anurag's GitHub stats">
+    <img width=385 src="https://github-readme-stats.vercel.app/api?username=Ridwan-Al-Mahmud&theme=react&border-radius=10&size_weight=0.5&count_weight=0.5&align=center&show_icons=true&rank_icon=github" alt="Anurag's GitHub stats">
     <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridwan-Al-Mahmud&theme=react&border-radius=10&langs_count=8">
       
   </a>
