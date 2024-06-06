@@ -44,24 +44,16 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <!--<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ridwan-Al-Mahmud/Ridwan-Al-Mahmud/output/github-contribution-grid-snake.svg" />-->
-  
-  <br/>
-</div>
-
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<!--<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Ridwan-Al-Mahmud &count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Ridwan-Al-Mahmud &count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ridwan-Al-Mahmud &hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>-->
+ <div align=center>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Ridwan-Al-Mahmud&theme=react&border-radius=10&width=390&count_private=true" alt="GitHub Streak">
+  </a>
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Ridwan-Al-Mahmud&theme=react&border-radius=10&width=390&count_private=true)](https://git.io/streak-stats)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ridwan-Al-Mahmud&theme=react&border-radius=10&size_weight=0.5&count_weight=0.5&align=center&width=325&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ridwan-Al-Mahmud&theme=react&border-radius=10&size_weight=0.5&count_weight=0.5&align=center&width=325&layout=compact&show_icons=true" alt="Anurag's GitHub stats">
+  </a>
+ </div>
