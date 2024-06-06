@@ -48,12 +48,19 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
- <div align="center" style="display:flex">
+ <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Ridwan-Al-Mahmud&theme=react&border-radius=10&width=300&count_private=true" alt="GitHub Streak">
+    <img width=405 src="https://streak-stats.demolab.com/?user=Ridwan-Al-Mahmud&theme=react&border-radius=10&count_private=true" alt="GitHub Streak">
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ridwan-Al-Mahmud&theme=react&border-radius=10&size_weight=0.5&count_weight=0.5&align=center&width=300&layout=compact&show_icons=true" alt="Anurag's GitHub stats">
+    <img width=370 src="https://github-readme-stats.vercel.app/api?username=Ridwan-Al-Mahmud&theme=react&border-radius=10&size_weight=0.5&count_weight=0.5&align=center&show_icons=true$rank_icon=github" alt="Anurag's GitHub stats">
+    <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridwan-Al-Mahmud&theme=react&border-radius=10&langs_count=8">
+      
   </a>
  </div>
+<br/>
+<hr/>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+visiting+✌️;+I'm+always+down+to+collab:);" />
+</h1>
