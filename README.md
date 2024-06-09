@@ -16,7 +16,7 @@
 
 💬 Ask me about **Backend, Django, MySql... or anything [here](https://github.com/Ridwan-Al-Mahmud/Ridwan-Al-Mahmud/issues)**
 
-⚡ Fun fact **The term "bug" in computer science originated when Grace Hopper found an actual moth causing problems in the Mark II computer in 1947.**
+⚡ Fun fact **The term "bug" in computer science originated when Grace Hopper found an actual moth causing problems in the Mark II computer in 1947**
 
  </div>
  
