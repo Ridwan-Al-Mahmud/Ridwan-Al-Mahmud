@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,mysql" />
-    <img src="https://skillicons.dev/icons?i=python,django" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,python,django,mysql" />
+    <!--<img src="https://skillicons.dev/icons?i=python,django" /><br>-->
 </div>
 
 <br/>
@@ -55,7 +55,7 @@
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width=385 src="https://github-readme-stats.vercel.app/api?username=Ridwan-Al-Mahmud&theme=react&border-radius=10&size_weight=0.5&count_weight=0.5&align=center&show_icons=true&rank_icon=github" alt="Anurag's GitHub stats">
-    <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridwan-Al-Mahmud&theme=react&border-radius=10&langs_count=8">
+    <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridwan-Al-Mahmud&theme=react&border-radius=10&langs_count=8&hide=html,css">
       
   </a>
  </div>
