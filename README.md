@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Go, Docker, Firebase**
 
-💬 Ask me about **Backend, Django, Sql... or anything [here](https://github.com/Ridwan-Al-Mahmud/Ridwan-Al-Mahmud/issues)**
+💬 Ask me about **Backend, Go, Sql... or anything [here](https://github.com/Ridwan-Al-Mahmud/Ridwan-Al-Mahmud/issues)**
 
 ⚡ Fun fact **The term "bug" in CS originated when Grace Hopper found an actual moth causing problems in the Mark II computer in 1947**
 
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,python,django,go,sqlite" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,git,github,python,django,go,sqlite" />
     <!--<img src="https://skillicons.dev/icons?i=python,django" /><br>-->
 </div>
 
