@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Go, Docker, Firebase**
+ 🌱 I’m currently learning **Rust, Docker, Redis**
 
 💬 Ask me about **Backend, Go, Sql... or anything [here](https://github.com/Ridwan-Al-Mahmud/Ridwan-Al-Mahmud/issues)**
 
@@ -36,8 +36,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs" />
-    <img src="https://skillicons.dev/icons?i=git,github,python,django,go,sqlite" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,git,github,react" />
+    <img src="https://skillicons.dev/icons?i=nextjs,python,django,go,c,rust,sqlite" />
     <!--<img src="https://skillicons.dev/icons?i=python,django" /><br>-->
 </div>
 
